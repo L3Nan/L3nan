@@ -1,17 +1,17 @@
 # 💻 Leandro Daniel - Desenvolvedor Full-Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Desenvolvedor+Full-Stack;Next.js+%7C+React+%7C+TypeScript;Java+%7C+PHP+%7C+MySQL;Selenium+Automation" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Lenan;Desenvolvedor+Front-end;Next.js+%7C+React+%7C+TypeScript;HTML5+%7C+CSS+%7C+MySQL;Selenium+Automation;" alt="Título animado" />
 </div>
 
 ## 🚀 Sobre Mim
 
 ```typescript
 const devProfile = {
-  focus: "Desenvolvimento Front-end e Back-end",
+  focus: "Desenvolvimento Front-end",
   currentRole: "Cofundador @ Compra Inversa",
   education: "Sistemas de Informação @ Impacta",
-  techStack: ["Next.js", "React", "TypeScript", "Java", "PHP", "MySQL"],
+  techStack: ["Next.js", "React", "TypeScript", "HTML5", "CSS", "JS","MySQL",],
   specialties: ["Performance", "UX", "Escalabilidade"],
   testing: "Automação com Selenium"
 };
@@ -74,33 +74,39 @@ const devProfile = {
 
 ## 🔥 Projetos em Destaque
 
-### Compra Inversa
-Plataforma inovadora com Next.js e Supabase
+### 🏗️ Compra Inversa *(em construção)*
+![Em Construção](https://img.shields.io/badge/Status-Em%20Constru%C3%A7%C3%A3o-yellow?style=for-the-badge&logo=buildkite&logoColor=black)
 
-### Automação com Selenium
-Testes automatizados com Selenium WebDriver
+**Descrição:** Plataforma inovadora onde compradores publicam intenções de compra e vendedores fazem propostas.  
+**Tecnologias:** Next.js · Tailwind CSS · Supabase · Fastify · PostgreSQL  
+> Projeto em desenvolvimento contínuo com foco em escalabilidade e multi-tenant.
+---
 
-### Portfólio Pessoal
-Meu portfólio com efeitos Matrix
+### 🎥 Portfólio Pessoal
 
-## 💭 Filosofia de Código
+<a href="https://l3nan.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-MATRIX%20EFFECT-00ff00?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
+**Descrição:** Meu portfólio com efeitos visuais estilo *Matrix*, incluindo animações, toque pessoal e foco em design minimalista.  
+**Tecnologias:** HTML · CSS · JavaScript
+
+---
 ```javascript
-while (coding) {
-  const knowledge = learnNewTech();
-  const projects = build(knowledge);
-  const optimizedCode = refactor(projects);
-  
-  if (bugsExist(optimizedCode)) {
-    debug(optimizedCode);
-  } else {
-    deploy(optimizedCode);
-  }
-}
+while (programando) {
+    const conhecimento = aprenderNovaTecnologia();
+    const projetos = construir(conhecimento);
+    const codigoOtimizado = refatorar(projetos);
+
+    if (existeBug(codigoOtimizado)) {
+        depurar(codigoOtimizado);
+    } else {
+        publicar(codigoOtimizado);
+    }
 ```
 
 ## 📫 Contato
-✉️ Email: seu-email@exemplo.com
+✉️ Email: Leandro-daniel-fernandes@live.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=L3Nan&label=Profile%20views&color=00FF41&style=flat" alt="Visitas ao perfil" />
