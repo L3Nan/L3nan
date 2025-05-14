@@ -1,30 +1,54 @@
-# 💫 About Me:
-Sou Leandro Daniel
-Desenvolvedor front-end
-Atualmente, cofundador do projeto **Compra Inversa**, atuo com tecnologias como **Next.js, Tailwind CSS, Supabase** e **Fastify**, com foco em performance, UX e escalabilidade.  
-Também tenho experiência com **automação de testes usando Selenium**, além de desenvolver projetos Java, PHP e MySQL.  
-Sou estudante de **Sistemas de Informação na Faculdade Impacta**, sempre buscando evoluir como profissional e compartilhar conhecimento com a comunidade.
+# 💻 Leandro Daniel - Desenvolvedor Full-Stack
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://l3nan.github.io/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sndanndev)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/L3Nan)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Desenvolvedor+Full-Stack;Next.js+%7C+React+%7C+TypeScript;Java+%7C+PHP+%7C+MySQL;Selenium+Automation" alt="Título animado" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=L3Nan&theme=dark&hide_border=false)<br/> [](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Nan&theme=dark&hide_border=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=L3Nan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 🚀 Sobre Mim
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-%23009639.svg?style=flat&logo=selenium&logoColor=white)
+```typescript
+const devProfile = {
+  focus: "Desenvolvimento Front-end e Back-end",
+  currentRole: "Cofundador @ Compra Inversa",
+  education: "Sistemas de Informação @ Impacta",
+  techStack: ["Next.js", "React", "TypeScript", "Java", "PHP", "MySQL"],
+  specialties: ["Performance", "UX", "Escalabilidade"],
+  testing: "Automação com Selenium"
+};
+🛠 Tecnologias
+Front-end
+<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> </div>
+Back-end & Banco de Dados
+<div> <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> </div>
+Testes & Automação
+<div> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> </div>
+Ferramentas & IDEs
+<div> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </div>
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3Nan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3Nan&layout=compact&langs_count=7&theme=dark&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=L3Nan&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&dates=FFFFFF"/> </div>
+🌐 Conecte-se Comigo
+<div> <a href="https://l3nan.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"> </a> <a href="https://linkedin.com/in/sndanndev" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/L3Nan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+🔥 Projetos em Destaque
+Compra Inversa - Plataforma inovadora com Next.js e Supabase
 
-# 🧪 Tools & IDEs:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![Eclipse IDE](https://img.shields.io/badge/eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white)  ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+Automação com Selenium - Testes automatizados com Selenium WebDriver
 
+Portfólio Pessoal - Meu portfólio com efeitos Matrix
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=L3Nan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💭 Filosofia de Código
+javascript
+while (coding) {
+  const knowledge = learnNewTech();
+  const projects = build(knowledge);
+  const optimizedCode = refactor(projects);
+  
+  if (bugsExist(optimizedCode)) {
+    debug(optimizedCode);
+  } else {
+    deploy(optimizedCode);
+  }
+}
+📫 Contato
+✉️ Email: seu-email@exemplo.com
 
----
-
-[![](https://visitcount.itsvg.in/api?id=L3Nan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Criado com base em GPRM: https://gprm.itsvg.in -->
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=L3Nan&label=Profile%20views&color=00FF41&style=flat" alt="Visitas ao perfil" /> </div> ```
