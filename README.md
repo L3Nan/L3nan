@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou Leandro Daniel Fernandes Machado — desenvolvedor front-end apaixonado por criar soluções digitais modernas e funcionais.  
+Sou Leandro Daniel
+Desenvolvedor front-end
 Atualmente, cofundador do projeto **Compra Inversa**, atuo com tecnologias como **Next.js, Tailwind CSS, Supabase** e **Fastify**, com foco em performance, UX e escalabilidade.  
 Também tenho experiência com **automação de testes usando Selenium**, além de desenvolver projetos Java, PHP e MySQL.  
 Sou estudante de **Sistemas de Informação na Faculdade Impacta**, sempre buscando evoluir como profissional e compartilhar conhecimento com a comunidade.
