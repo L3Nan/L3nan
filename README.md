@@ -9,7 +9,7 @@ Sou estudante de **Sistemas de Informação na Faculdade Impacta**, sempre busca
 [![Portfolio](https://img.shields.io/badge/Portfólio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://l3nan.github.io/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sndanndev)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/L3Nan)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=L3Nan&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Nan&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=L3Nan&theme=dark&hide_border=false)<br/> [](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Nan&theme=dark&hide_border=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=L3Nan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack:
