@@ -6,9 +6,16 @@
 
 ## 🚀 Sobre Mim
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/L3Nan/L3Nan/main/devProfile_animation.gif" alt="devProfile animado" />
-</p>
+```typescript
+const devProfile = {
+  focus: "Desenvolvimento Front-end",
+  currentRole: "Cofundador @ Compra Inversa",
+  education: "Sistemas de Informação @ Impacta",
+  techStack: ["Next.js", "React", "TypeScript", "HTML5", "CSS", "JS","MySQL",],
+  specialties: ["Performance", "UX", "Escalabilidade"],
+  testing: "Automação com Selenium"
+};
+```
 
 ## 🛠 Tecnologias
 
