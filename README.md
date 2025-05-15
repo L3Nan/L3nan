@@ -7,9 +7,7 @@
 ## 🚀 Sobre Mim
 
 <p align="center">
-  <a href="https://github.com/L3Nan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=8000&pause=0&color=00FF00&center=true&vCenter=true&width=850&lines=const+devProfile+=+%7B;foco:+%22Desenvolvimento+Front-end%22,;cargoAtual:+%22Cofundador+%40+Compra+Inversa%22,;educacao:+%22Sistemas+de+Informa%C3%A7%C3%A3o+%40+Impacta%22,;tecnologias:+[+%22Next.js%22,+%22React%22,+%22TypeScript%22,+%22HTML5%22,+%22CSS%22,+%22JavaScript%22,+%22MySQL%22+],;especialidades:+[+%22Performance%22,+%22UX%22,+%22Escalabilidade%22+],;estudando:+%22Multi-Tenant+e+Integra%C3%A7%C3%B5es+com+Supabase%22;};&center=true&repeat=false" alt="devProfile" />
-  </a>
+  <img src="https://raw.githubusercontent.com/L3Nan/L3Nan/main/devProfile_animation.gif" alt="devProfile animado" />
 </p>
 
 ## 🛠 Tecnologias
