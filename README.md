@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/L3Nan/L3Nan/main/devProfile_animation.gif" alt="devProfile animado" />
+</p>
+
 # 💻 Leandro Daniel - Desenvolvedor
 
 <div align="center">
@@ -13,7 +17,7 @@ const devProfile = {
   education: "Sistemas de Informação @ Impacta",
   techStack: ["Next.js", "React", "TypeScript", "HTML5", "CSS", "JS","MySQL",],
   specialties: ["Performance", "UX", "Escalabilidade"],
-  testing: "Automação com Selenium"
+  testing: "Automatão com Selenium"
 };
 ```
 
@@ -74,7 +78,7 @@ const devProfile = {
 
 ## 🔥 Projetos em Destaque
 
-### 🏗️ Compra Inversa *(em construção)*
+### 🏧 Compra Inversa *(em construção)*
 ![Em Construção](https://img.shields.io/badge/Status-Em%20Constru%C3%A7%C3%A3o-yellow?style=for-the-badge&logo=buildkite&logoColor=black)
 
 **Descrição:** Plataforma inovadora onde compradores publicam intenções de compra e vendedores fazem propostas.  
@@ -105,7 +109,7 @@ while (programando) {
     }
 ```
 
-## 📫 Contato
+## 📩 Contato
 ✉️ Email: Leandro-daniel-fernandes@live.com
 
 <div align="center">
