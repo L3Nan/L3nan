@@ -20,7 +20,7 @@ const devProfile = {
   testing: "Automatão com Selenium"
 };
 ```
-
+ 
 ## 🛠 Tecnologias
 
 ### Front-end
